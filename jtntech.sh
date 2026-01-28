@@ -2,9 +2,7 @@
 
 > 📋 **Tip:** Click the **Copy** button on the code block below and paste it directly into your Cloud Shell or terminal.
 
-```bash
 #!/bin/bash
-clear
 
 # ==============================
 # 🎨 Color & Formatting Setup
