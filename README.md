@@ -16,10 +16,17 @@ with **logging, monitoring, and health checks**.
 ├── run.sh       # CLI wrapper / final execution script
 └── README.md    # Project documentation
 
+```
+## 🚀 One-Click Install & Run **(`run.sh`)**
+```sh
+
+curl -LO https://raw.githubusercontent.com/JtnTech/-Creating-and-Alerting-on-Logs-based-Metrics/refs/heads/main/jtntech.sh
+sudo chmod +x jtntech.sh
+./jtntech.sh
 
 ```
 
-## 📜 Full Deployment Script (`jtntech.sh`)
+## 📜 Originak Full Deployment Script (`jtntech.sh`)
 
 > 📋 **Tip:** Click the **Copy** button on the code block below and paste it directly into your Cloud Shell or terminal.
 
